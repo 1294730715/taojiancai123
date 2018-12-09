@@ -2717,9 +2717,9 @@
 #u13503 {
   position:absolute;
   left:1127px;
-  top:329px;
+  top:334px;
   width:73px;
-  height:45px;
+  height:35px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
@@ -2838,5 +2838,33 @@
   left:2px;
   top:2px;
   width:336px;
+  word-wrap:break-word;
+}
+#u13511_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:140px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(22, 155, 213, 1);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u13511 {
+  position:absolute;
+  left:979px;
+  top:173px;
+  width:140px;
+  height:40px;
+}
+#u13512 {
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:136px;
   word-wrap:break-word;
 }
