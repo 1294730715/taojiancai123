@@ -17,7 +17,7 @@
   left:0px;
   top:35px;
   width:912px;
-  height:725px;
+  height:729px;
 }
 #u1_img {
   position:absolute;
@@ -496,19 +496,19 @@
   left:0px;
   top:0px;
   width:107px;
-  height:64px;
+  height:24px;
 }
 #u41 {
   position:absolute;
   left:0px;
   top:592px;
   width:107px;
-  height:64px;
+  height:24px;
 }
 #u42 {
   position:absolute;
   left:2px;
-  top:24px;
+  top:4px;
   width:103px;
   word-wrap:break-word;
 }
@@ -517,14 +517,14 @@
   left:0px;
   top:0px;
   width:800px;
-  height:64px;
+  height:24px;
 }
 #u43 {
   position:absolute;
   left:107px;
   top:592px;
   width:800px;
-  height:64px;
+  height:24px;
   font-family:'Pristina Normal', 'Pristina';
   font-weight:400;
   font-style:normal;
@@ -536,7 +536,7 @@
 #u44 {
   position:absolute;
   left:2px;
-  top:22px;
+  top:2px;
   width:796px;
   word-wrap:break-word;
 }
@@ -545,19 +545,19 @@
   left:0px;
   top:0px;
   width:107px;
-  height:64px;
+  height:44px;
 }
 #u45 {
   position:absolute;
   left:0px;
-  top:656px;
+  top:616px;
   width:107px;
-  height:64px;
+  height:44px;
 }
 #u46 {
   position:absolute;
   left:2px;
-  top:24px;
+  top:14px;
   width:103px;
   word-wrap:break-word;
 }
@@ -566,14 +566,14 @@
   left:0px;
   top:0px;
   width:800px;
-  height:64px;
+  height:44px;
 }
 #u47 {
   position:absolute;
   left:107px;
-  top:656px;
+  top:616px;
   width:800px;
-  height:64px;
+  height:44px;
   font-family:'Pristina Normal', 'Pristina';
   font-weight:400;
   font-style:normal;
@@ -585,7 +585,56 @@
 #u48 {
   position:absolute;
   left:2px;
-  top:12px;
+  top:2px;
+  width:796px;
+  word-wrap:break-word;
+}
+#u49_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:107px;
+  height:64px;
+}
+#u49 {
+  position:absolute;
+  left:0px;
+  top:660px;
+  width:107px;
+  height:64px;
+}
+#u50 {
+  position:absolute;
+  left:2px;
+  top:24px;
+  width:103px;
+  word-wrap:break-word;
+}
+#u51_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:800px;
+  height:64px;
+}
+#u51 {
+  position:absolute;
+  left:107px;
+  top:660px;
+  width:800px;
+  height:64px;
+  font-family:'Pristina Normal', 'Pristina';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#000000;
+  text-align:left;
+  line-height:20px;
+}
+#u52 {
+  position:absolute;
+  left:2px;
+  top:2px;
   width:796px;
   word-wrap:break-word;
 }
