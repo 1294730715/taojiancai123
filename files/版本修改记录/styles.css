@@ -17,7 +17,7 @@
   left:0px;
   top:35px;
   width:912px;
-  height:1681px;
+  height:1765px;
 }
 #u1_img {
   position:absolute;
@@ -1517,6 +1517,55 @@
   position:absolute;
   left:2px;
   top:2px;
+  width:796px;
+  word-wrap:break-word;
+}
+#u125_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:107px;
+  height:84px;
+}
+#u125 {
+  position:absolute;
+  left:0px;
+  top:1676px;
+  width:107px;
+  height:84px;
+}
+#u126 {
+  position:absolute;
+  left:2px;
+  top:34px;
+  width:103px;
+  word-wrap:break-word;
+}
+#u127_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:800px;
+  height:84px;
+}
+#u127 {
+  position:absolute;
+  left:107px;
+  top:1676px;
+  width:800px;
+  height:84px;
+  font-family:'Pristina Normal', 'Pristina';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#000000;
+  text-align:left;
+  line-height:20px;
+}
+#u128 {
+  position:absolute;
+  left:2px;
+  top:22px;
   width:796px;
   word-wrap:break-word;
 }
